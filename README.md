@@ -10,7 +10,12 @@
 由于需要与银行交互，一些页面无法实现，读者可以根据自己的需要模拟实现相应功能。
 
 # 系统使用效果
-![ABC](https://github.com/xiangzhihong/ListViewHover/blob/master/screen/gif5%E6%96%B0%E6%96%87%E4%BB%B6.gif) 
+![ABC](https://github.com/xiangzhihong/B2CShop/blob/master/screen/main_1.png) 
+![ABC](https://github.com/xiangzhihong/B2CShop/blob/master/screen/list_1.png) 
+![ABC](https://github.com/xiangzhihong/B2CShop/blob/master/screen/db_1.png) 
+![ABC](https://github.com/xiangzhihong/B2CShop/blob/master/screen/cart_1.png) 
+![ABC](https://github.com/xiangzhihong/B2CShop/blob/master/screen/cart_2.png) 
+![ABC](https://github.com/xiangzhihong/B2CShop/blob/master/screen/order_1.png) 
   
   
  
